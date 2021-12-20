@@ -14,6 +14,9 @@
 ### Key Learning Points
 - Wrapped pages in Layout component 
 - GetStaticProps
+- Importing css files to components and wrapping elements in those styling components
+- Changed detect indent on VS to 2
+- Nested routes 
 
 ### GetStaticProps
 - Next.js has an advantage over React apps on page pre-rendering 

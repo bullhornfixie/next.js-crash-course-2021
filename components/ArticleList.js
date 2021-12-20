@@ -3,7 +3,7 @@ import articleStyles from '../styles/Article.module.css'
 
 // import articles as object 
 // map out each item in object 
-// import ArticleItem which is a styling component 
+// ArticleItem provides a link + styling component 
 
 const ArticleList = ({ articles }) => {
     return (
