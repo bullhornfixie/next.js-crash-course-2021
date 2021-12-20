@@ -7,7 +7,7 @@
 - Server side rendering 
 - Static site generation (next export)
 - /Public is a static folder and can be access directly from browser 
-- Next.js is very good for SEO
+- Source code is accessible to search engine crawlers - good for SEO
 - import Head from 'next/head' enables you to create custom titles or meta tags in `<Head>`
 - Need a single parent element such as <> or `<div>` for jsx elements such as `<Head>`
 
