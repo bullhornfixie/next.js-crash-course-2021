@@ -29,3 +29,4 @@
 
 ### Resources 
 [Use Next.js as a Static Site Generator](https://pagepro.co/blog/how-to-use-next-js-static-site-generator/)
+[What is getStaticProps?](https://dev.to/akuks/what-is-getstaticprops-in-nextjs-3066)

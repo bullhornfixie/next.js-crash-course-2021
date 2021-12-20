@@ -10,11 +10,19 @@ export default function Home({ articles }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1>Welcome to Next</h1>
-    </div>
+      <h1>Welcome to next.js</h1>
 
-  )
-}
+      {articles.map((article, i) => (
+        <h3 key={i}>{article.title}</h3>
+      ))}
+
+      </div>
+      )
+    }
+    
+
+  
+
 
 // Fake rest API
 export const getStaticProps = async () => {
@@ -27,6 +35,7 @@ export const getStaticProps = async () => {
       articles
     }
   }
+}
 
   // Then pass the object 'articles' to any component such as Home.
-}
+
