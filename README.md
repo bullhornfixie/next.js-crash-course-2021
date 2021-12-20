@@ -1,6 +1,6 @@
 # Next.js Crash Course 2021 
 
-[Course](https://www.youtube.com/watch?v=mTz0GXj8NN0)
+[Course Link](https://www.youtube.com/watch?v=mTz0GXj8NN0)
 
 ### Overview of Next.js
 - Builds on top of react to provide extra features 
