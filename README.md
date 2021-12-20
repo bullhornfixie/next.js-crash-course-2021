@@ -1,4 +1,4 @@
-#Next.js Crash Course 2021 
+# Next.js Crash Course 2021 
 
 [Course](https://www.youtube.com/watch?v=mTz0GXj8NN0)
 
@@ -31,5 +31,5 @@
 - However, you can import `global.css` into `_app.js`
 
 ### Resources 
-[Use Next.js as a Static Site Generator](https://pagepro.co/blog/how-to-use-next-js-static-site-generator/)
+[Use Next.js as a Static Site Generator](https://pagepro.co/blog/how-to-use-next-js-static-site-generator/) </br>
 [What is getStaticProps?](https://dev.to/akuks/what-is-getstaticprops-in-nextjs-3066)
