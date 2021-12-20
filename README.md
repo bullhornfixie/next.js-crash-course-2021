@@ -2,7 +2,7 @@
 
 [Course](https://www.youtube.com/watch?v=mTz0GXj8NN0)
 
-### Key Learning Points 
+### Overview of Next.js
 - Builds on top of react to provide extra features 
 - Server side rendering 
 - Static site generation (next export)
@@ -10,6 +10,17 @@
 - Source code is accessible to search engine crawlers - good for SEO
 - import Head from 'next/head' enables you to create custom titles or meta tags in `<Head>`
 - Need a single parent element such as <> or `<div>` for jsx elements such as `<Head>`
+
+### Key Learning Points
+- Wrapped pages in Layout component 
+- GetStaticProps
+
+### GetStaticProps
+- Next.js has an advantage over React apps on page pre-rendering 
+- This means we generate all the HTML code and data in advanace 
+- Is this done automatically?
+- No, we need to narrate Next.js to pre-generate the page during build time 
+- Here, getStaticProps comes into the picture 
 
 ### StyleSheets 
 - You cannot import global stylesheets into pages/components e.g. `global.css`
